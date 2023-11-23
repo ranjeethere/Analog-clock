@@ -1,0 +1,17 @@
+Analog watch :
+
+Introduction--
+In this mini project  i  hava  created a clock that display the real time  which are connect to your pc.
+More  important is that throughout these project  i have learn many thing from this project.
+which helps me to increase my coding skills  and more importantly help me out to gain  confidence to shift to  another way  like a 
+upcoming another heavy project that may helps me in learning various coding skill.
+so this these type of small project are act as ladder for building a very complex project..
+
+Technology Used:--
+
+I have used three technology like HTML CSS and JAVASCRIPT for the  for creating designing and putting logic into the project 
+
+
+THANK YOU 
+FOR ATTENTION TO THIS PROJECT.. 
+ 
